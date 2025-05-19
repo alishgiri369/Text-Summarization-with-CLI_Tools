@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: summarization
+Version: 0.1.0
+Summary: python CLI tools for summarization using hugging face
+Home-page: https://github.com/alishgiri369/Text-Summarization-with-CLI_Tools
+Author: Alish-Giri
+Author-email: alishgiri29@gmail.com

@@ -3,5 +3,3 @@ click
 tensorflow-macos
 tensorflow-metal
 BeautifulSoup4
-tf-keras
-torch torchvision torchaudio
