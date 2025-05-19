@@ -41,8 +41,3 @@ def main(url , file):
     click.echo(process(text))
 
 
-'''python setup.py develop   
-summarize --help  
-summarize --url url_name
-summarize --file filename       
-'''
